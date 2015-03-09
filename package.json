@@ -1,6 +1,6 @@
 {
   "author": "Charlie Zheng <chuanyi.zheng@gmail.com>",
-  "name": "msexcel-builder-colorfix",
+  "name": "msexcel-builder-colorfix-intfix",
   "description": "A tiny library to create Microsoft Office Excel(2007) files under Nodejs. Color filling fixed by Maxim Romanov",
   "tags": [
     "xlsx",
@@ -9,10 +9,10 @@
   "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/aloteot/msexcel-builder.git"
+    "url": "git://github.com/lokeshlal/msexcel-builder.git"
   },
   "bugs": {
-    "url": "https://github.com/aloteot/msexcel-builder/issues"
+    "url": "https://github.com/lokeshlal/msexcel-builder/issues"
   },
   "main": "./lib/msexcel-builder.js",
   "engines": {
