@@ -17,11 +17,11 @@ Features:
 Install it in node.js:
 
 ```
-npm install msexcel-builder-colorfix
+npm install msexcel-builder-colorfix-intfix
 ```
 
 ```javascript
-var excelbuilder = require('msexcel-builder-colorfix');
+var excelbuilder = require('msexcel-builder-colorfix-intfix');
 ```
 
 Then create a sample workbook with one sheet and some data.
